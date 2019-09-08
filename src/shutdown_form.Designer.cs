@@ -283,15 +283,15 @@
             this.rpcText.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(192)))), ((int)(((byte)(0)))));
             this.rpcText.Location = new System.Drawing.Point(4, 280);
             this.rpcText.Name = "rpcText";
-            this.rpcText.Size = new System.Drawing.Size(116, 16);
+            this.rpcText.Size = new System.Drawing.Size(74, 16);
             this.rpcText.TabIndex = 7;
-            this.rpcText.Text = "Redémarrage du PC : ";
+            this.rpcText.Text = "Arrêt du PC : ";
             // 
             // shutdownTime
             // 
             this.shutdownTime.AutoSize = true;
             this.shutdownTime.ForeColor = System.Drawing.Color.White;
-            this.shutdownTime.Location = new System.Drawing.Point(115, 281);
+            this.shutdownTime.Location = new System.Drawing.Point(73, 281);
             this.shutdownTime.Name = "shutdownTime";
             this.shutdownTime.Size = new System.Drawing.Size(0, 13);
             this.shutdownTime.TabIndex = 8;

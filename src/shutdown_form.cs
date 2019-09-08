@@ -42,7 +42,7 @@ namespace ShutdownPC
             {
                 string combTime = shutdownTime.Text = heuresBox.Text + ":" + minutesBox.Text + ":" + secondesBox.Text;
                 checkShutdown.Enabled = true;
-                rpcText.Text = "Redémarrage du PC : ";
+                rpcText.Text = "Arrêt du PC : ";
             }
            
         }
