@@ -1,0 +1,9 @@
+C:\Users\stephanie\source\repos\ShutdownPC\bin\x86\Release\ShutdownPC.exe.config
+C:\Users\stephanie\source\repos\ShutdownPC\bin\x86\Release\ShutdownPC.exe
+C:\Users\stephanie\source\repos\ShutdownPC\bin\x86\Release\ShutdownPC.pdb
+C:\Users\stephanie\source\repos\ShutdownPC\obj\x86\Release\ShutdownPC.shutdown_form.resources
+C:\Users\stephanie\source\repos\ShutdownPC\obj\x86\Release\ShutdownPC.Properties.Resources.resources
+C:\Users\stephanie\source\repos\ShutdownPC\obj\x86\Release\ShutdownPC.csproj.GenerateResource.cache
+C:\Users\stephanie\source\repos\ShutdownPC\obj\x86\Release\ShutdownPC.csproj.CoreCompileInputs.cache
+C:\Users\stephanie\source\repos\ShutdownPC\obj\x86\Release\ShutdownPC.exe
+C:\Users\stephanie\source\repos\ShutdownPC\obj\x86\Release\ShutdownPC.pdb
